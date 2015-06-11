@@ -1,0 +1,868 @@
+<h1>俺收藏的各色网站</h1>
+
+= =
+
+= 新闻时事类 =
+
+下面列出的是新闻报道相关的网站（包括各种报刊、杂志、电台的官方网站等）。
+
+为了看起来方便，按照地区分类。
+
+== 欧洲 ==
+
+{|
+! 名称 !! 链接 !! 类型 !! 说明
+|-
+| '''英国广播公司''' || &nbsp; || &nbsp; || 英文缩写BBC 介绍参见[https://zh.wikipedia.org/wiki/%E8%8B%B1%E5%9B%BD%E5%B9%BF%E6%92%AD%E5%85%AC%E5%8F%B8 维基百科]
+|-
+| &nbsp; || [http://www.bbc.co.uk/] || Web || English Homepage
+|-
+| &nbsp; || [http://www.bbc.co.uk/zhongwen/simp/] || Web || 简体中文主页
+|-
+| &nbsp; || [http://www.bbc.co.uk/zhongwen/trad/] || Web || 繁體中文主頁
+|-
+| &nbsp; || [http://www.bbc.co.uk/zhongwen/simp/index.xml BBC新闻订阅] || RSS || 简体中文 摘要输出
+|-
+| &nbsp; || [https://twitter.com/BBCchinese @BBCchinese] || Twitter || 简体中文推特
+|-
+| '''德国之声''' || &nbsp; || &nbsp; || 介绍参见[https://zh.wikipedia.org/wiki/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0 维基百科]
+|-
+| &nbsp; || [http://www.dw-world.de/] || Web || English Homepage
+|-
+| &nbsp; || [http://www.dw-world.de/dw/0,,293,00.html] || Web || 简体中文主页
+|-
+| &nbsp; || [http://mobile.dw-world.de/chinese] || WAP || 简体中文手机版
+|-
+| '''路透社''' || &nbsp; || &nbsp; || 世界三大通讯社之一 介绍参见[https://zh.wikipedia.org/wiki/%E8%B7%AF%E9%80%8F%E7%A4%BE 维基百科]
+|-
+| &nbsp; || [http://www.reuters.com/] || Web || English Homepage
+|-
+| &nbsp; || [http://cn.reuters.com/] || Web || 路透中文网主页
+|-
+| &nbsp; || [http://blogs.cn.reuters.com/feed 路透博客] || RSS || 简体中文 全文输出
+|-
+| '''法国国际广播电台''' || &nbsp; || &nbsp; || 英文缩写RFI 介绍参见[https://zh.wikipedia.org/wiki/%E6%B3%95%E5%9B%BD%E5%9B%BD%E9%99%85%E5%B9%BF%E6%92%AD%E7%94%B5%E5%8F%B0 维基百科]
+|-
+| &nbsp; || [http://www.rfi.fr/] || Web || English Homepage
+|-
+| &nbsp; || [https://twitter.com/RFI @RFI] || Twitter || English Twitter
+|-
+| &nbsp; || [http://www.chinese.rfi.fr/] || Web || 简体中文主页
+|-
+| &nbsp; || [http://www.chinese.rfi.fr/contenu/most-read/feed 热点新闻订阅] || RSS || 简体中文 摘要输出
+|-
+| &nbsp; || [http://www.chinese.rfi.fr/actufr/pages/001/accueil.xml 最近24小时新闻订阅] || RSS || 简体中文 摘要输出
+|-
+| &nbsp; || [https://twitter.com/RFI_Chinois @RFI_Chinois] || Twitter || 简体中文推特
+|-
+| '''荷兰国际广播电台''' || &nbsp; || &nbsp; || 英文缩写RNW 介绍参见[https://zh.wikipedia.org/wiki/%E8%8D%B7%E5%85%B0%E5%9B%BD%E9%99%85%E5%B9%BF%E6%92%AD%E7%94%B5%E5%8F%B0 维基百科]
+|-
+| &nbsp; || [http://www.rnw.nl/] || Web || English Homepage
+|-
+| &nbsp; || [http://www.rnw.nl/chinese] || Web || 简体中文主页
+|-
+| &nbsp; || [http://m.rnw.nl/chinese] || Web || 简体中文主页的精简版 面向手机浏览
+|-
+| &nbsp; || [https://twitter.com/RNW @RNW] || Twitter || English Twitter
+|-
+| '''全球之声''' || &nbsp; || &nbsp; || 介绍参见[https://zh.wikipedia.org/wiki/%E5%85%A8%E7%90%83%E4%B9%8B%E8%81%B2 维基百科]
+|-
+| &nbsp; || [http://globalvoicesonline.org] || Web || English Homepage
+|-
+| &nbsp; || [https://twitter.com/GlobalVoices @GlobalVoices] || Twitter || English Twitter
+|-
+| &nbsp; || [http://zh.globalvoicesonline.org/hans] || Web || 简体中文主页
+|-
+| &nbsp; || [http://zh.globalvoicesonline.org/hans/feed/ 新闻订阅] || RSS || 简体中文 摘要输出
+|-
+| &nbsp; || [http://zh.globalvoicesonline.org/hant] || Web || 简体中文主页
+|-
+| &nbsp; || [http://zh.globalvoicesonline.org/hant/feed/ 新聞訂閲] || RSS || 繁體中文 摘要輸出
+|-
+| '''无国界记者''' || &nbsp; || &nbsp; || 英文缩写RSF 介绍参见[https://zh.wikipedia.org/wiki/%E6%97%A0%E5%9B%BD%E7%95%8C%E8%AE%B0%E8%80%85 维基百科]
+|-
+| &nbsp; || [http://www.rsf.org/-Anglais-.html] || Web || English Homepage
+|-
+| &nbsp; || [http://www.rsf-chinese.org/] || Web || 简体中文主页
+|-
+| &nbsp; || [http://www.rsf-chinese.org/spip.php?page=backend 新闻订阅] || RSS || 简体中文 摘要输出
+|}
+
+== 北美 ==
+
+{|
+! 名称 !! 链接 !! 类型 !! 说明
+|-
+| '''纽约时报''' || &nbsp; || &nbsp; || 介绍参见[https://zh.wikipedia.org/wiki/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5 维基百科]
+|-
+| &nbsp; || [http://www.nytimes.com/] || Web || English Homepage
+|-
+| &nbsp; || [http://cn.nytimes.com/] || Web || 简体中文主页
+|-
+| &nbsp; || [http://cn.nytimes.com/zh-hk/] || Web || 繁體中文主頁
+|-
+| &nbsp; || [https://twitter.com/nytimes @nytimes] || Twitter || English Twitter
+|-
+| &nbsp; || [https://twitter.com/NYTchinese @NYTchinese] || Twitter || 简体中文推特
+|-
+| '''有线新闻网''' || &nbsp; || &nbsp; || 英文缩写CNN 介绍参见[https://zh.wikipedia.org/wiki/CNN 维基百科]
+|-
+| &nbsp; || [http://www.cnn.com/] || Web || English Homepage
+|-
+| &nbsp; || [https://twitter.com/CNN @CNN] || Twitter || CNN on Twitter
+|-
+| &nbsp; || [https://twitter.com/CNNbrk @CNNbrk] || Twitter || CNN Breaking News on Twitter
+|-
+| &nbsp; || [https://twitter.com/CNNi @CNNi] || Twitter || CNN International on Twitter
+|-
+| '''美国之音''' || &nbsp; || &nbsp; || 英文缩写VOA 介绍参见[https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3 维基百科]
+|-
+| &nbsp; || [http://voanews.com/] || Web || English Homepage
+|-
+| &nbsp; || [http://voanews.com/chinese] || Web || 简体中文主页
+|-
+| &nbsp; || [http://www.voanews.com/templates/Articles.rss?sectionPath=/chinese/news/china 新闻订阅] || RSS || 简体中文 摘要输出
+|-
+| &nbsp; || [https://twitter.com/VOAchinese @VOAchinese] || Twitter || 简体中文推特
+|-
+| '''自由亚洲电台''' || &nbsp; || &nbsp; || 英文缩写RFA 介绍参见[https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%E7%94%B5%E5%8F%B0 维基百科]
+|-
+| &nbsp; || [http://www.rfa.org/] || Web || English Home
+|-
+| &nbsp; || [http://www.rfa.org/mandarin/] || Web || 简体中文主页
+|-
+| &nbsp; || [https://twitter.com/RFAchinese @RFAchinese] || Twitter || 简体中文推特
+|-
+| &nbsp; || [http://www.rfa.org/mandarin/zhuanlan/zhongguotoushi/RSS 中国透视订阅] || RSS || 简体中文 摘要输出
+|-
+| &nbsp; || [http://www.rfa.org/mandarin/yataibaodao/RSS 亚太报道订阅] || RSS || 简体中文 摘要输出
+|-
+| &nbsp; || [http://www.rfa.org/mandarin/pinglun/RSS 特约评论订阅] || RSS || 简体中文 摘要输出
+|-
+| &nbsp; || [http://www.rfa.org/mandarin/zhuanlan/diaochabaodao/RSS 调查报道订阅] || RSS || 简体中文 摘要输出
+|-
+| &nbsp; || [http://www.rfa.org/mandarin/zhuanlan/huashengdunshouji/RSS 华盛顿手记订阅] || RSS || 简体中文 摘要输出
+|-
+| '''博讯''' || &nbsp; || &nbsp; || 介绍参见[https://zh.wikipedia.org/wiki/%E5%8D%9A%E8%AE%AF 维基百科]
+|-
+| &nbsp; || [http://www.boxun.com/] || Web || 简体中文主页
+|-
+| &nbsp; || [http://www.peacehall.com/] || Web || 另一个域名 内容同上
+|-
+| &nbsp; || [http://www.boxun.us/] || Web || English Homepage
+|-
+| &nbsp; || [http://news.boxun.com/news/rss/focus.xml 焦点新闻订阅] || RSS || 简体中文 仅标题输出
+|-
+| &nbsp; || [http://news.boxun.com/news/rss/pol.xml 政治新闻订阅] || RSS || 简体中文 仅标题输出
+|-
+| '''北美世界日報''' || &nbsp; || &nbsp; || 隸屬台灣聯合報系 有親中共傾向 介绍参见[https://zh.wikipedia.org/wiki/%E5%8C%97%E7%BE%8E%E4%B8%96%E7%95%8C%E6%97%A5%E5%A0%B1 维基百科]
+|-
+| &nbsp; || [http://www.worldjournal.com/] || Web || 繁體中文主頁
+|-
+| '''万维读者网''' || &nbsp; || &nbsp; || 1999年由旅美华人创办 据说2009年股权变更后立场已转变
+|-
+| &nbsp; || [http://www.creaders.net/] || Web || 繁體中文主頁
+|-
+| &nbsp; || [http://www.creaders.net/?language=gb2312] || Web || 简体中文主页
+|-
+| &nbsp; || [http://www.creadersnet.com/] || Web || English Homepage
+|}
+
+== 香港 ==
+
+{|
+! 名称 !! 链接 !! 类型 !! 说明
+|-
+| '''明報''' || &nbsp; || &nbsp; || 大名鼎鼎的金庸創辦 介紹參見[https://zh.wikipedia.org/wiki/%E6%98%8E%E5%A0%B1 維基百科]
+|-
+| &nbsp; || [http://www.mingpaonews.com/] || Web || 繁體中文主頁
+|-
+| &nbsp; || [https://twitter.com/MingPaoCom @MingPaoCom] || Twitter || 繁體中文推特
+|-
+| '''蘋果日報''' || &nbsp; || &nbsp; || 創辦人黎智英 少數批評北京及港府的大報 介紹參見[https://zh.wikipedia.org/wiki/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1_(%E9%A6%99%E6%B8%AF) 維基百科]
+|-
+| &nbsp; || [http://hk.nextmedia.com/] || Web || 香港版的繁體中文主頁
+|-
+| &nbsp; || [https://twitter.com/HKAppleDaily @HKAppleDaily] || Twitter || 香港版的繁體中文推特
+|-
+| '''亞洲周刊''' || &nbsp; || &nbsp; || 1994年被明報集團收購 介紹參見[https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%B4%B2%E9%80%B1%E5%88%8A 維基百科]
+|-
+| &nbsp; || [http://www.yzzk.com/] || Web || 繁體中文主頁
+|-
+| &nbsp; || [http://www.yzzk.com/rss/rss.xml 新聞訂閲] || RSS || 繁體中文 摘要輸出
+|-
+| '''南華早報''' || &nbsp; || &nbsp; || 英文縮寫SCMP 政治立場中偏左 介紹參見[https://zh.wikipedia.org/wiki/%E5%8D%97%E8%8F%AF%E6%97%A9%E5%A0%B1 維基百科]
+|-
+| &nbsp; || [http://www.scmp.com/] || Web || English Homepage
+|-
+| &nbsp; || [http://chinaoutlook.scmp.com/zh-hk/] || Web || 繁體中文主頁
+|-
+| &nbsp; || [https://twitter.com/SCMP_News @SCMP_News] || Twitter || 繁體中文推特
+|-
+| '''香港獨立媒體''' || &nbsp; || &nbsp; || 於2004年七一遊行後成立 介紹參見[https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E7%8D%A8%E7%AB%8B%E5%AA%92%E9%AB%94 維基百科]
+|-
+| &nbsp; || [http://www.inmediahk.net/] || Web || 繁體中文主頁
+|-
+| &nbsp; || [http://inmediahk.net/full/feed 所有文章訂閲] || RSS || 繁體中文 全文輸出
+|-
+| &nbsp; || [https://twitter.com/inmediahk @inmediahk] || Twitter || 繁體中文推特
+|-
+| '''熱血時報''' || &nbsp; || &nbsp; || 在2012年9月9日成立 立場反共 介紹參見[https://zh.wikipedia.org/wiki/%E7%86%B1%E8%A1%80%E6%99%82%E5%A0%B1 維基百科]
+|-
+| &nbsp; || [http://www.passiontimes.hk/] || Web || 繁體中文主頁
+|-
+| &nbsp; || [https://twitter.com/Passiontimes @Passiontimes] || Twitter || 繁體中文推特
+|-
+| '''星島日報''' || &nbsp; || &nbsp; || 華僑富商胡文虎於1938年創辦 觀點親中共和建制派 介紹參見[https://zh.wikipedia.org/wiki/%E6%98%9F%E5%B3%B6%E6%97%A5%E5%A0%B1 維基百科]
+|-
+| &nbsp; || [http://www.singtao.com/] || Web || 繁體中文主頁
+|-
+| '''香港電視廣播有限公司''' || &nbsp; || &nbsp; || 英文縮寫TVB 介紹參見[https://zh.wikipedia.org/wiki/%E9%9B%BB%E8%A6%96%E5%BB%A3%E6%92%AD%EF%BC%88%E5%9C%8B%E9%9A%9B%EF%BC%89 維基百科]
+|-
+| &nbsp; || [http://www.tvb.com/] || Web || 繁體中文主頁
+|-
+| &nbsp; || [https://twitter.com/TVBcom @TVBcom] || Twitter || 繁體中文推特
+|-
+| '''香港亞洲電視''' || &nbsp; || &nbsp; || 英文縮寫ATV 介紹參見[https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%B4%B2%E9%9B%BB%E8%A6%96 維基百科]
+|-
+| &nbsp; || [http://www.hkatv.com/] || Web || 繁體中文主頁
+|-
+| &nbsp; || [http://www.hkatv.com/v5/index_cn.html] || Web || 简体中文主页
+|-
+| '''香港電臺''' || &nbsp; || &nbsp; || 英文縮寫RTHK 介紹參見[https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E9%9B%BB%E5%8F%B0 維基百科]
+|-
+| &nbsp; || [http://rthk.hk/index.htm] || Web || 繁體中文主頁
+|-
+| &nbsp; || [http://gbcode.rthk.org.hk/TuniS/rthk.hk/index.htm] || Web || 简体中文主页
+|-
+| &nbsp; || [http://rthk.hk/index_eng.htm] || Web || English Homepage
+|}
+
+== 臺灣 ==
+
+{|
+! 名称 !! 链接 !! 类型 !! 说明
+|-
+| '''蘋果日報''' || &nbsp; || Web || 創辦人黎智英 介紹參見[https://zh.wikipedia.org/wiki/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1_%28%E5%8F%B0%E7%81%A3%29 維基百科]
+|-
+| &nbsp; || [http://tw.nextmedia.com/] || Web || 臺灣版的繁體中文主頁
+|-
+| &nbsp; || [https://twitter.com/TW_nextmedia @TW_nextmedia] || Twitter || 臺灣版的繁體中文推特
+|-
+| '''自由時報''' || &nbsp; || &nbsp; || 英文縮寫LTN 觀點偏綠 介紹參見[https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E6%99%82%E5%A0%B1 維基百科]
+|-
+| &nbsp; || [http://www.ltn.com.tw/] || Web || 繁體中文主頁
+|-
+| &nbsp; || [http://news.ltn.com.tw/rss/focus.xml 焦點新聞] || RSS || 繁體中文 摘要輸出
+|-
+| &nbsp; || [http://news.ltn.com.tw/rss/politics.xml 政治新聞] || RSS || 繁體中文 摘要輸出
+|-
+| &nbsp; || [http://news.ltn.com.tw/rss/society.xml 社會新聞] || RSS || 繁體中文 摘要輸出
+|-
+| &nbsp; || [http://news.ltn.com.tw/rss/world.xml 國際新聞] || RSS || 繁體中文 摘要輸出
+|-
+| '''中央通訊社''' || &nbsp; || &nbsp; || 英文縮寫CNA 介紹參見[https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E9%80%9A%E8%A8%8A%E7%A4%BE 維基百科]
+|-
+| &nbsp; || [http://www.cna.com.tw/] || Web || 繁體中文主頁
+|-
+| &nbsp; || [http://feeds.feedburner.com/cnaFirstNews 重點新聞] || RSS || 繁體中文 摘要輸出
+|-
+| &nbsp; || [http://feeds.feedburner.com/rsscna/politics 政治新聞] || RSS || 繁體中文 摘要輸出
+|-
+| &nbsp; || [http://feeds.feedburner.com/rsscna/mainland 國際新聞] || RSS || 繁體中文 摘要輸出
+|-
+| '''聯合新聞網''' || &nbsp; || &nbsp; || 聯合報係的核心網站 觀點偏藍 介紹參見[https://zh.wikipedia.org/wiki/%E8%81%AF%E5%90%88%E6%96%B0%E8%81%9E%E7%B6%B2 維基百科]
+|-
+| &nbsp; || [http://udn.com/] || Web || 繁體中文主頁
+|-
+| &nbsp; || [http://udn.com/udnrss/latest.xml 最新報道訂閲] || RSS || 繁體中文摘要輸出
+|-
+| &nbsp; || [http://udn.com/udnrss/international.xml 國際新聞訂閲] || RSS || 繁體中文 摘要輸出
+|-
+| '''中國時報''' || &nbsp; || &nbsp; || 觀點偏藍 介紹參見[https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E6%99%82%E5%A0%B1 維基百科]
+|-
+| &nbsp; || [http://www.chinatimes.com/] || Web || 繁體中文主頁
+|-
+| &nbsp; || [http://www.chinatimes.com/cn/] || Web || 简体中文主页
+|-
+| '''東森電視''' || &nbsp; || &nbsp; || 東森電視臺的官方網站
+|-
+| &nbsp; || [http://www.ebc.net.tw/] || Web || 繁體中文主頁
+|}
+
+== 东南亚 ==
+
+{|
+! 名称 !! 链接 !! 类型 !! 说明
+|-
+| '''联合早报''' || &nbsp; || &nbsp; || 新加坡主要华文报纸 亲中共的趋势逐渐明显 介绍参见[https://zh.wikipedia.org/wiki/%E8%81%94%E5%90%88%E6%97%A9%E6%8A%A5 维基百科]
+|-
+| &nbsp; || [http://www.zaobao.com/] || Web || 简体中文主页
+|-
+| &nbsp; || [https://twitter.com/ZaoBaoChina @ZaoBaoChina] || Twitter || 简体中文推特
+|-
+| &nbsp; || [http://realtime.zaobao.com/news.xml 即时报道订阅] || RSS || 简体中文 仅标题输出
+|-
+| &nbsp; || [http://www.zaobao.com/gj/gj.xml 国际新闻订阅] || RSS || 简体中文 仅标题输出
+|}
+
+
+----
+
+= 政治类网站 =
+
+== 电子杂志类 ==
+
+{|
+! 名称 !! 链接 !! 类型 !! 说明
+|-
+| '''阳光时务周刊''' || &nbsp; || &nbsp; || 2011年创办的中文时政杂志 主编长平是大陆知名且敢言的媒体人 介绍参见[https://zh.wikipedia.org/wiki/%E9%99%BD%E5%85%89%E6%99%82%E5%8B%99%E9%80%B1%E5%88%8A 维基百科]
+|-
+| &nbsp; || [http://www.isunaffairs.com/] || Web || 繁體中文主頁
+|-
+| &nbsp; || [http://www.isunaffairs.com/?feed=rss2 订阅] || RSS || 繁體中文 摘要輸出
+|-
+| &nbsp; || [https://plus.google.com/105389029463525925239/posts +阳光时务周刊] || G+ || 简体中文
+|-
+| &nbsp; || [https://twitter.com/isunaffairs @isunaffairs] || Twitter || 繁體中文推特
+|-
+| '''中国报道周刊''' || &nbsp; || &nbsp; || 内容包括 政治、经济、新闻、学术、历史、军事等
+|-
+| &nbsp; || [http://www.china-week.com/] || Web || 简体中文主页
+|-
+| &nbsp; || [https://twitter.com/chinaweek @ChinaWeek] || Twitter || 简体中文推特
+|-
+| &nbsp; || [http://feeds.feedburner.com/china-week 文章订阅] || RSS || 简体中文 全文输出
+|-
+| '''民主中国''' || &nbsp; || &nbsp; || 以政治评论为主
+|-
+| &nbsp; || [http://minzhuzhongguo.org/] || Web || 简体中文主页
+|-
+| &nbsp; || [http://www.democraticchina.org/] || Web || English Home
+|-
+| &nbsp; || [https://twitter.com/minzhuzhongguo @MinZhuZhongGuo] || Twitter || 简体中文推特
+|-
+| '''北京之春(月刊)''' || &nbsp; || &nbsp; || [https://zh.wikipedia.org/wiki/%E8%83%A1%E5%B9%B3_%28%E4%BD%9C%E5%AE%B6%29 胡平]担任主编 关注人权、民主化、社会公正
+|-
+| &nbsp; || [http://bjzc.org/] || Web || 简体中文主页
+|-
+| &nbsp; || [http://bjzc.org/en/] || Web || English Home
+|-
+| &nbsp; || [http://beijingspring.com/big5bjs/] || Web || 繁體中文主頁
+|-
+| '''纵览中国''' || &nbsp; || &nbsp; || 普林斯顿中国学社主办 关注时政、近代史 介绍参见[https://zh.wikipedia.org/wiki/%E7%B8%B1%E8%A6%BD%E4%B8%AD%E5%9C%8B 维基百科]
+|-
+| &nbsp; || [http://www.chinainperspective.com/] || Web || 简体中文主页
+|-
+| &nbsp; || [http://www.chinainperspective.com/rss.aspx 订阅] || RSS || 简体中文 摘要输出
+|-
+| '''開放雜誌(月刊)''' || &nbsp; || &nbsp; || 位於香港 立場反共 介紹參見[https://zh.wikipedia.org/wiki/%E5%BC%80%E6%94%BE%E6%9D%82%E5%BF%97 維基百科]
+|-
+| &nbsp; || [http://www.open.com.hk/] || Web || 繁體中文主頁
+|-
+| &nbsp; || [https://twitter.com/openmagazinehk @OpenMagazineHK] || Twitter || 繁體中文推特
+|-
+| '''观察(双月刊)''' || &nbsp; || &nbsp; || 综合性刊物 位于美国 包括新闻及各种专栏报道
+|-
+| &nbsp; || [http://www.observechina.net/] || Web || 简体中文主页
+|-
+| &nbsp; || [http://www.observechina.net/info_eng/Index.asp] || Web || English Home
+|}
+
+== 维权 ==
+
+{|
+! 名称 !! 链接 !! 类型 !! 说明
+|-
+| '''新公民运动''' || &nbsp; || &nbsp; || “新公民运动”的官网 内容包括政治评论、维权、NGO等 介绍参见[https://zh.wikipedia.org/wiki/%E6%96%B0%E5%85%AC%E6%B0%91%E8%BF%90%E5%8A%A8 维基百科]
+|-
+| &nbsp; || [http://xgmyd.com/] || Web || 简体中文主页
+|-
+| &nbsp; || [http://xgmyd.com/feed] || RSS || 简体中文 全文输出
+|-
+| &nbsp; || [https://twitter.com/gongminyundong @GongMinYunDong] || Twitter || 简体中文推特
+|-
+| '''中国人权''' || &nbsp; || &nbsp; || 内容包括新闻、维权、六四等 介绍参见[https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83_%28%E7%BB%84%E7%BB%87%29 维基百科]
+|-
+| &nbsp; || [http://www.hrichina.org/] || Web || English Home
+|-
+| &nbsp; || [http://www.hrichina.org/cn/] || Web || 简体中文主页
+|-
+| &nbsp; || [http://www.hrichina.org/hk/] || Web || 繁體中文主頁
+|-
+| &nbsp; || [https://twitter.com/hrichina @hriChina] || Twitter || 简体中文推特
+|-
+| &nbsp; || [http://biweekly.hrichina.org/] || Web || 《中国人权双周刊》电子杂志
+|-
+| '''参与''' || &nbsp; || &nbsp; || 内容包括维权和民运等
+|-
+| &nbsp; || [http://www.canyu.org/] || Web || 简体中文主页
+|-
+| &nbsp; || [http://www.canyu.org/chinese.aspx?big5=1] || Web || 繁體中文主頁
+|-
+| &nbsp; || [http://www.canyu.org/rssFeed.aspx] || RSS || 简体中文 摘要输出
+|-
+| '''六四天网''' || &nbsp; || &nbsp; || [https://zh.wikipedia.org/wiki/%E9%BB%84%E7%90%A6 黄琦]主办的国内第一家维权网站 介绍参见[https://zh.wikipedia.org/wiki/%E5%85%AD%E5%9B%9B%E5%A4%A9%E7%BD%91 维基百科]
+|-
+| &nbsp; || [http://64tianwang.com/] || Web || 简体中文主页
+|}
+
+== “六四”相关 ==
+
+{|
+! 名称 !! 链接 !! 类型 !! 说明
+|-
+| '''维基百科相关词条''' || &nbsp; || &nbsp; || 这是俺搜罗与“六四”相关的词条
+|-
+| &nbsp; || [https://zh.wikipedia.org/wiki/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6 六四事件] || wiki || 比较客观地介绍事件全过程
+|-
+| &nbsp; || [https://zh.wikipedia.org/wiki/%E8%83%A1%E8%80%80%E9%82%A6 胡耀邦] || wiki || 他的死成为六四的导火索
+|-
+| &nbsp; || [https://zh.wikipedia.org/wiki/%E8%B6%99%E7%B4%AB%E9%99%BD 赵紫阳] || wiki || 他因为不肯镇压学生而被邓小平罢黜
+|-
+| &nbsp; || [https://zh.wikipedia.org/wiki/%E5%A4%A9%E5%AE%89%E9%96%80%E6%96%87%E4%BB%B6 《天安门文件》] || wiki || 又名《中国六四真相》 大部分内容来自中共高层泄漏的文件
+|-
+| '''六四档案''' || [http://www.64memo.com/] || Web || 由[https://zh.wikipedia.org/wiki/%E5%B0%81%E4%BB%8E%E5%BE%B7 封从德]（六四学生领袖之一）创办 有多本六四相关电子书的在线阅读
+|-
+| '''六四资料@博讯''' || [http://www.boxun.com/hero/64/] || Web || 博讯网汇总的六四相关资料
+|-
+| '''天安门母亲''' || [http://www.tiananmenmother.org/] || Web || 由死难者家属[https://zh.wikipedia.org/wiki/%E4%B8%81%E5%AD%90%E9%9C%96 丁子霖]等人发起
+|-
+| '''支聯會''' || [http://www.alliance.org.hk/] || Web || 全稱是“香港市民支援愛國民主運動聯合會” 六四期間大力支持北京的學運
+|-
+| '''天安门对峙''' || [http://www.tiananmenduizhi.com/] || Web || 《天安门对峙》是一本书 这是此书作者的博客
+|-
+| '''六四民运志''' || &nbsp; || &nbsp; || 这是一本关于六四的书
+|-
+| &nbsp; || [http://www.ngensis.com/june4/june4s.htm] || Web || 简体中文主页
+|-
+| &nbsp; || [http://www.ngensis.com/june4/june4.htm] || Web || 繁體中文主頁
+|-
+| '''纪录片《天安门》''' || &nbsp; || &nbsp; || 该纪录片的官方网站 此片的部分内容有争议
+|-
+| &nbsp; || [http://www.tsquare.tv/] || Web || English Home
+|-
+| &nbsp; || [http://www.tsquare.tv/chinese/] || Web || 简体中文主页
+|-
+| '''《回顾六四》系列博文''' || [http://program-think.blogspot.com/2011/06/june-fourth-incident-0.html program-think.blogspot.com] || Web || 这是俺写的系列博文 帮不清楚“六四”的网友了解那段历史
+|}
+
+== 聚合类 ==
+
+{|
+! 名称 !! 链接 !! 类型 !! 说明
+|-
+| '''中国数字时代''' || &nbsp; || &nbsp; || 介绍参见[https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3 维基百科]
+|-
+| &nbsp; || [http://chinadigitaltimes.net/] || Web || English Home
+|-
+| &nbsp; || [http://chinadigitaltimes.net/chinese/] || Web || 简体中文主页
+|-
+| &nbsp; || [https://chinadigitaltimes.net/feed/ 订阅] || RSS || 简体中文 全文输出
+|-
+| &nbsp; || [https://plus.google.com/102352597823180899622/posts +China Digital Times] || G+ || English
+|-
+| &nbsp; || [https://plus.google.com/114542928368198238414/posts +中国数字时代] || G+ || 简体中文
+|-
+| &nbsp; || [https://twitter.com/cdt @cdt] || Twitter || English
+|-
+| &nbsp; || [https://twitter.com/CDTChinese @CDTChinese] || Twitter || 简体中文推特
+|-
+| '''墙外楼''' || &nbsp; || &nbsp; || 创办人未知 内容类似于“中国数字时代”
+|-
+| &nbsp; || [http://www.letscorp.net/] || Web || 简体中文主页
+|-
+| &nbsp; || [http://feeds.feedburner.com/letscorp/aDmw 订阅] || RSS || 简体中文 全文输出
+|-
+| &nbsp; || [https://twitter.com/letscorp @letscorp] || Twitter || 简体中文推特
+|}
+
+
+----
+
+= 财经类网站 =
+
+下面列出的是侧重于财经报道的网站（包括某些报刊、杂志的官方网站等）。
+
+为了看起来方便，按照地区分类。
+
+== 北美 ==
+
+{|
+! 名称 !! 链接 !! 类型 !! 说明
+|-
+| '''华尔街日报''' || &nbsp; || &nbsp; || 英文缩写WSJ 介绍参见[https://zh.wikipedia.org/wiki/%E5%8D%8E%E5%B0%94%E8%A1%97%E6%97%A5%E6%8A%A5 维基百科]
+|-
+| &nbsp; || [http://online.wsj.com/home-page] || Web || U.S. Edition Homepage
+|-
+| &nbsp; || [http://europe.wsj.com/home-page] || Web || Europe Edition Homepage
+|-
+| &nbsp; || [http://blogs.wsj.com/] || Web || English Blogs
+|-
+| &nbsp; || [https://twitter.com/WSJ @WSJ] || Twitter || English Twitter
+|-
+| &nbsp; || [http://chinese.wsj.com/gb/index.asp] || Web || 简体中文主页
+|-
+| &nbsp; || [http://chinese.wsj.com/big5/index.asp] || Web || 繁體中文主頁
+|-
+| '''福布斯''' || &nbsp; || &nbsp; || 介绍参见[https://zh.wikipedia.org/wiki/%E7%A6%8F%E5%B8%83%E6%96%AF 维基百科]
+|-
+| &nbsp; || [http://www.forbes.com/] || Web || English Homepage
+|-
+| &nbsp; || [http://www.forbes.com/fast/feed Most popular stories] || RSS || English, summary
+|-
+| &nbsp; || [https://twitter.com/forbes @Forbes] || Twitter || English Twitter
+|-
+| &nbsp; || [http://www.forbeschina.com/] || Web || 简体中文主页
+|-
+| &nbsp; || [http://www.forbes.conn.tw/] || Web || 繁體中文主頁
+|-
+| '''彭博商业周刊''' || &nbsp; || &nbsp; || 介绍参见[https://zh.wikipedia.org/wiki/%E5%BD%AD%E5%8D%9A%E5%95%86%E4%B8%9A%E5%91%A8%E5%88%8A 维基百科] 它的“MBA排行榜”很有名
+|-
+| &nbsp; || [http://www.businessweek.com/] || Web || English Homepage
+|-
+| &nbsp; || [https://twitter.com/BW @BW] || Twitter || English Twitter
+|-
+| '''财富''' || &nbsp; || &nbsp; || 介绍参见[https://zh.wikipedia.org/wiki/%E8%B2%A1%E5%AF%8C_%28%E9%9B%9C%E8%AA%8C%29 维基百科] 它的“企业500强排行榜”广为人知
+|-
+| &nbsp; || [http://www.fortune.com/] || Web || English Homepage
+|-
+| &nbsp; || [https://twitter.com/fortunemagazine @FortuneMagazine] || Twitter || English Twitter
+|-
+| &nbsp; || [http://www.fortunechina.com/] || Web || 简体中文主页
+|}
+
+== 欧洲 ==
+
+{|
+! 名称 !! 链接 !! 类型 !! 说明
+|-
+| '''金融时报''' || &nbsp; || &nbsp; || 介绍参见[https://zh.wikipedia.org/wiki/%E9%87%91%E8%9E%8D%E6%99%82%E5%A0%B1 维基百科]
+|-
+| &nbsp; || [http://www.ft.com/] || Web || English Homepage
+|-
+| &nbsp; || [http://www.ft.com/rss/home/uk Financial Times] || RSS || English, summary
+|-
+| &nbsp; || [https://twitter.com/FT @FT] || Twitter || English Twitter
+|-
+| &nbsp; || [https://twitter.com/financialtimes @FinancialTimes] || Twitter || English Twitter
+|-
+| &nbsp; || [http://www.ftchinese.com/] || Web || 简体中文主页
+|-
+| &nbsp; || [http://www.ftchinese.com/rss/news 今日焦点] || RSS || 简体中文 摘要输出
+|-
+| &nbsp; || [http://www.ftchinese.com/rss/feed 每日新闻] || RSS || 简体中文 摘要输出
+|-
+| &nbsp; || [http://www.ftchinese.com/rss/hotstoryby7day 一周十大热门文章] || RSS || 简体中文 摘要输出
+|-
+| '''经济学人''' || &nbsp; || &nbsp; || 介绍参见[https://zh.wikipedia.org/wiki/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA 维基百科]
+|-
+| &nbsp; || [http://www.economist.com/] || Web || English Homepage
+|-
+| &nbsp; || [http://www.economist.com/rss/business_rss.xml Business] || RSS || English, summary
+|-
+| &nbsp; || [http://www.economist.com/rss/finance_and_economics_rss.xml Finance & economics] || RSS || English, summary
+|-
+| &nbsp; || [http://www.economist.com/rss/international_rss.xml International] || RSS || English, summary
+|-
+| &nbsp; || [http://www.economist.com/rss/china_rss.xml China] || RSS || English, summary
+|-
+| &nbsp; || [https://twitter.com/TheEconomist @TheEconomist] || Twitter || English Twitter
+|}
+
+== 天朝 ==
+
+{|
+! 名称 !! 链接 !! 类型 !! 说明
+|-
+| '''财新传媒''' || &nbsp; || &nbsp; || 介绍参见[https://zh.wikipedia.org/wiki/%E8%B4%A2%E6%96%B0%E4%BC%A0%E5%AA%92 维基百科]
+|-
+| &nbsp; || [http://www.caixin.com/] || Web || 简体中文主页
+|-
+| &nbsp; || [http://blog.caixin.com/feed 财新博客] || RSS || 简体中文 摘要输出
+|-
+| &nbsp; || [https://twitter.com/caing_com @caing_com] || Twitter || 简体中文推特
+|-
+| '''经济观察报''' || &nbsp; || &nbsp; || 介绍参见[https://zh.wikipedia.org/wiki/%E7%BB%8F%E6%B5%8E%E8%A7%82%E5%AF%9F%E6%8A%A5 维基百科]
+|-
+| &nbsp; || [http://www.eeo.com.cn/] || Web || 简体中文主页
+|-
+| &nbsp; || [http://www.eeo.com.cn/ens/] || Web || English Homepage
+|-
+| &nbsp; || [http://cn.eeo.feedsportal.com/c/33796/fe.ed/app.eeo.com.cn/?app=rss&controller=index&action=feed&catid=17 政经要闻] || RSS || 简体中文 摘要输出
+|-
+| &nbsp; || [http://cn.eeo.feedsportal.com/c/33796/fe.ed/app.eeo.com.cn/?app=rss&controller=index&action=feed&catid=64 商业评论] || RSS || 简体中文 摘要输出
+|-
+| &nbsp; || [http://cn.eeo.feedsportal.com/c/33796/fe.ed/app.eeo.com.cn/?app=rss&controller=index&action=feed&catid=96 观察家] || RSS || 简体中文 摘要输出
+|-
+| '''21世纪经济报道''' || &nbsp; || &nbsp; || 介绍参见[https://zh.wikipedia.org/wiki/21%E4%B8%96%E7%BA%AA%E7%BB%8F%E6%B5%8E%E6%8A%A5%E9%81%93 维基百科]
+|-
+| &nbsp; || [http://www.21cbh.com/] || Web || 简体中文主页
+|-
+| &nbsp; || [http://news.21cbh.com/?c=focus 今日焦点] || RSS || 简体中文 全文输出
+|-
+| &nbsp; || [http://news.21cbh.com/?c=blog 博客] || RSS || 简体中文 全文输出
+|-
+| '''财经网''' || [http://www.caijing.com.cn/] || Web || 简体中文主页
+|}
+
+== 香港 ==
+
+{|
+! 名称 !! 链接 !! 类型 !! 说明
+|-
+| '''香港經濟日報''' || [http://www.hket.com/] || Web || 繁體中文主頁
+|-
+| '''香港商报-中國窗''' || [http://www.hkcd.com.hk/] || Web || 繁體中文主頁
+|}
+
+== 臺灣 ==
+
+{|
+! 名称 !! 链接 !! 类型 !! 说明
+|-
+| 商业周刊 || &nbsp; || &nbsp; || 台湾发行量最大的财经类刊物 总部在台北 （跟美国《商业周刊》没关系）
+|-
+| &nbsp; || [http://www.businessweekly.com.tw/] || Web || 繁體中文主頁
+|-
+| &nbsp; || [http://feeds.feedburner.com/bw-mix 最新綜合文章] || RSS || 繁體中文 摘要輸出
+|-
+| &nbsp; || [http://feeds.feedburner.com/bw-news 每日財經網摘] || RSS || 繁體中文 摘要輸出
+|-
+| &nbsp; || [http://feeds.feedburner.com/bw-ranking 本週熱門排行] || RSS || 繁體中文 摘要輸出
+|}
+
+
+----
+
+= IT技术类网站 =
+
+== 国外 ==
+
+{|
+! 名称 !! 链接 !! 类型 !! 说明
+|-
+| '''连线''' || &nbsp; || &nbsp; || 介绍参见[https://zh.wikipedia.org/wiki/%E8%BF%9E%E7%BA%BF 维基百科]
+|-
+| &nbsp; || [http://wired.com/] || Web || Engilsh Homepage
+|-
+| &nbsp; || [http://feeds.wired.com/wired/index Wired Top Stories] || RSS || English, summary, 5 posts/week
+|-
+| &nbsp; || [https://twitter.com/WIRED @WIRED] || Twitter || English Twitter
+|-
+| &nbsp; || [http://wired.tw/] || Web || 繁體中文主頁 2012年剛上線不久
+|-
+| &nbsp; || [http://feeds.feedburner.com/wired/tw WIRED.tw] || RSS || 繁體中文 摘要輸出
+|-
+| &nbsp; || [https://twitter.com/WiredTaiwan @WIRED] || Twitter || 繁體中文推特
+|-
+| '''Ars Technica''' || &nbsp; || &nbsp; || 介绍参见[https://zh.wikipedia.org/wiki/Ars_Technica 维基百科]
+|-
+| &nbsp; || [http://arstechnica.com/] || Web || Engilsh Homepage
+|-
+| &nbsp; || [http://feeds.arstechnica.com/arstechnica/index All News Feed] || RSS || English, full text
+|-
+| &nbsp; || [http://feeds.arstechnica.com/arstechnica/features Ars Features Feed] || RSS || English, full text
+|-
+| &nbsp; || [https://twitter.com/arstechnica @ArsTechnica] || Twitter || English
+|-
+| &nbsp; || [https://plus.google.com/+ArsTechnica +ArsTechnica] || G+ || English
+|-
+| '''TechCrunch''' || &nbsp; || &nbsp; || 介绍参见[https://zh.wikipedia.org/wiki/TechCrunch 维基百科]
+|-
+| &nbsp; || [http://techcrunch.com/] || Web || Engilsh Homepage
+|-
+| &nbsp; || [http://techcrunch.cn/] || Web || 简体中文主页
+|-
+| &nbsp; || [http://feeds.feedburner.com/TechCrunch/ Feed] || RSS || English, summary
+|-
+| &nbsp; || [https://twitter.com/techcrunch @TechCrunch] || Twitter || English
+|-
+| &nbsp; || [https://plus.google.com/+TechCrunch +TechCrunch] || G+ || English
+|-
+| '''Mashable''' || &nbsp; || &nbsp; || 介绍参见[https://zh.wikipedia.org/wiki/Mashable 维基百科]
+|-
+| &nbsp; || [http://mashable.com/] || Web || Engilsh Homepage
+|-
+| &nbsp; || [http://feeds.mashable.com/Mashable Feed] || RSS || English, summary
+|-
+| &nbsp; || [https://twitter.com/mashable @mashable] || Twitter || English
+|-
+| &nbsp; || [https://plus.google.com/+Mashable +Mashable] || G+ || English
+|-
+| '''Engadget''' || &nbsp; || &nbsp; || 介绍参见[https://en.wikipedia.org/wiki/Engadget 维基百科]
+|-
+| &nbsp; || [http://www.engadget.com/] || Web || Engilsh Homepage
+|-
+| &nbsp; || [http://www.engadget.com/rss.xml Feed] || RSS || English, full text, 260 posts/week
+|-
+| &nbsp; || [https://twitter.com/engadget @Engadget] || Twitter || English
+|-
+| &nbsp; || [https://plus.google.com/+Engadget +Engadget] || G+ || English
+|-
+| &nbsp; || [http://cn.engadget.com/] || Web || 简体中文主页
+|-
+| &nbsp; || [http://cn.engadget.com/rss.xml 订阅] || RSS || 简体中文 全文输出 平均110帖/周
+|-
+| &nbsp; || [http://chinese.engadget.com/] || Web || 繁體中文主頁
+|-
+| &nbsp; || [http://chinese.engadget.com/rss.xml 訂閱] || RSS || 繁體中文 全文輸出 平均110帖/周
+|-
+| &nbsp; || [https://twitter.com/engadgettaiwan @EngadgetTaiwan] || Twitter || 繁體中文推特
+|-
+| '''Hacker News''' || &nbsp; || &nbsp; || 英文缩写HN 介绍参见[https://zh.wikipedia.org/wiki/Hacker_News 维基百科]
+|-
+| &nbsp; || [http://news.ycombinator.com/] || Web || Engilsh Homepage
+|-
+| &nbsp; || [http://news.ycombinator.com/rss Feed] || RSS || English, full text
+|-
+| &nbsp; || [http://www.daemonology.net/hn-daily/index.rss Daily Feed] || RSS || NH的发帖量太大了 这是由第三方提供的每日精选
+|-
+| &nbsp; || [https://twitter.com/newsycombinator @HackerNews] || Twitter || English
+|-
+| '''Reddit''' || &nbsp; || &nbsp; || 介绍参见[https://zh.wikipedia.org/wiki/Reddit 维基百科]
+|-
+| &nbsp; || [https://www.reddit.com/] || Web || Engilsh Homepage
+|-
+| &nbsp; || [https://twitter.com/reddit @reddit] || Twitter || English
+|-
+| &nbsp; || [https://plus.google.com/+reddit +reddit] || G+ || English
+|-
+| '''Slashdot''' || &nbsp; || &nbsp; || 介绍参见[https://zh.wikipedia.org/wiki/Slashdot 维基百科]
+|-
+| &nbsp; || [http://www.slashdot.org/] || Web || Engilsh Homepage
+|-
+| &nbsp; || [http://rss.slashdot.org/Slashdot/slashdot Feed] || RSS || English, full text, 170 posts/week
+|-
+| &nbsp; || [https://twitter.com/slashdot @Slashdot] || Twitter || English
+|-
+| &nbsp; || [https://plus.google.com/+slashdot +slashdot] || G+ || English
+|-
+| '''MIT 技术评论''' || &nbsp; || &nbsp; || 有一百多年历史 介绍参见[https://zh.wikipedia.org/wiki/%E7%A7%91%E6%8A%80%E5%88%9B%E4%B8%9A 维基百科]
+|-
+| &nbsp; || [http://www.technologyreview.com/] || Web || Engilsh Homepage
+|-
+| &nbsp; || [http://www.techreviewchina.com/] || Web || 简体中文主页
+|-
+| &nbsp; || [http://feeds.technologyreview.com/technology_review_top_stories Technology Review Top Stories] || RSS || English, summary, 100 posts/week
+|-
+| &nbsp; || [https://twitter.com/techreview @TechReview] || Twitter || English
+|-
+| &nbsp; || [https://plus.google.com/+technologyreview +TechnologyReview] || G+ || English
+|}
+
+== 国内 ==
+
+{|
+! 名称 !! 链接 !! 类型 !! 说明
+|-
+| '''Solidot''' || &nbsp; || &nbsp; || 完全模仿Slashdot 介绍参见[https://zh.wikipedia.org/wiki/Solidot 维基百科]
+|-
+| &nbsp; || [http://www.solidot.org/] || Web || 简体中文主页
+|-
+| &nbsp; || [http://feeds.feedburner.com/solidot 订阅] || RSS || 简体中文 全文输出 发帖量挺大 平均100帖/周
+|-
+| &nbsp; || [https://twitter.com/solidot @solidot] || Twitter || 简体中文推特
+|-
+| '''爱范儿''' || &nbsp; || &nbsp; || 介绍参见[https://zh.wikipedia.org/wiki/%E7%88%B1%E8%8C%83%E5%84%BF 维基百科]
+|-
+| &nbsp; || [http://www.ifanr.com/] || Web || 简体中文主页
+|-
+| &nbsp; || [http://www.ifanr.com/feed 订阅] || RSS || 简体中文 全文输出
+|-
+| &nbsp; || [https://twitter.com/ifanr @ifanr] || Twitter || 简体中文推特
+|-
+| '''36氪''' || &nbsp; || &nbsp; || 介绍参见[https://zh.wikipedia.org/wiki/36%E6%B0%AA 维基百科]
+|-
+| &nbsp; || [http://36kr.com/] || Web || 简体中文主页
+|-
+| &nbsp; || [http://36kr.com/feed 订阅] || RSS || 简体中文 全文输出
+|-
+| &nbsp; || [https://twitter.com/36kr @36kr] || Twitter || 简体中文推特
+|-
+| '''cnBeta''' || &nbsp; || &nbsp; || 介绍参见[https://zh.wikipedia.org/zh/CnBeta.COM 维基百科]
+|-
+| &nbsp; || [http://www.cnbeta.com/] || Web || 简体中文主页
+|-
+| &nbsp; || [http://rss.cnbeta.com/rss 订阅] || RSS || 简体中文 摘要输出
+|-
+| '''V2EX''' || &nbsp; || &nbsp; || 介绍参见[https://zh.wikipedia.org/wiki/V2EX 维基百科]
+|-
+| &nbsp; || [https://v2ex.com/] || Web || 简体中文主页
+|-
+| &nbsp; || [https://v2ex.com/index.xml 订阅] || RSS || 简体中文 全文输出
+|-
+| &nbsp; || [https://twitter.com/v2ex @V2EX] || Twitter || 简体中文推特
+|}
+
+
+----
+
+= 科普类网站 =
+
+{|
+! 名称 !! 链接 !! 类型 !! 说明
+|-
+| '''科学美国人''' || &nbsp; || &nbsp; || 始于1845年 美国存活至今最长命的杂志 介绍参见[https://zh.wikipedia.org/wiki/%E7%A7%91%E5%AD%A6%E7%BE%8E%E5%9B%BD%E4%BA%BA 维基百科]
+|-
+| &nbsp; || [http://www.scientificamerican.com/] || Web || Engilsh Homepage
+|-
+| &nbsp; || [http://www.huanqiukexue.com/ 环球科学] || Web || 简体中文主页 授权给《电脑报》杂志社
+|-
+| &nbsp; || [http://sa.ylib.com/ 科學人] || Web || 繁體中文主頁 授权给台湾遠流出版公司
+|-
+| '''科学松鼠会''' || &nbsp; || &nbsp; || [https://zh.wikipedia.org/wiki/%E5%B5%87%E6%99%93%E5%8D%8E 姬十三]创办 介绍参见[https://zh.wikipedia.org/wiki/%E7%A7%91%E5%AD%A6%E6%9D%BE%E9%BC%A0%E4%BC%9A 维基百科]
+|-
+| &nbsp; || [http://songshuhui.net/] || Web || 简体中文主页
+|-
+| &nbsp; || [http://songshuhui.net/feed 订阅] || RSS || 简体中文 全文输出
+|-
+| &nbsp; || [https://twitter.com/songshuhui @songshuhui] || Twitter || 简体中文推特
+|-
+| '''新语丝''' || &nbsp; || &nbsp; || 方舟子创办 介绍参见[https://zh.wikipedia.org/wiki/%E6%96%B0%E8%AF%AD%E4%B8%9D 维基百科]
+|-
+| &nbsp; || [http://www.xys.org/] || Web || 简体中文主页
+|-
+| &nbsp; || [http://feeds.feedburner.com/xys 订阅] || RSS || 简体中文 全文输出
+|-
+| &nbsp; || [https://twitter.com/xys @xys] || Twitter || 简体中文推特
+|}
+
+
+----
+
+= 编程类网站 =
+
+{|
+! 名称 !! 链接 !! 类型 !! 说明
+|-
+| '''Stack Overflow''' || &nbsp; || &nbsp; || 最好的编程问答网站(没有“之一”) 介绍参见[https://zh.wikipedia.org/wiki/Stack_Overflow 维基百科]
+|-
+| &nbsp; || [http://stackoverflow.com/] || Web || Engilsh Homepage
+|-
+| '''GitHub''' || &nbsp; || &nbsp; || 最好的开源项目集散地(没有“之一”) 介绍参见[https://zh.wikipedia.org/wiki/GitHub 维基百科]
+|-
+| &nbsp; || [https://github.com/] || Web || Engilsh Homepage
+|-
+| '''CodeCademy''' || &nbsp; || &nbsp; || 这个适合新手入门 介绍参见[https://zh.wikipedia.org/wiki/Codecademy 维基百科]
+|-
+| &nbsp; || [http://www.codecademy.com/] || Web || Engilsh Homepage
+|-
+| '''IBM DeveloperWorks''' || &nbsp; || &nbsp; || 包含各个领域的编程文档 介绍参见[https://en.wikipedia.org/wiki/IBM_DeveloperWorks 维基百科]
+|-
+| &nbsp; || [http://www.ibm.com/developerworks] || Web || Engilsh Homepage
+|-
+| &nbsp; || [http://www.ibm.com/developerworks/cn/] || Web || 简体中文主页
+|-
+| &nbsp; || [http://www.ibm.com/developerworks/views/global/rss/libraryview.jsp Technical Library Feed] || RSS || English, summary
+|-
+| &nbsp; || [http://www.ibm.com/developerworks/cn/views/global/rss/libraryview.jsp 文档库订阅] || RSS || 简体中文 摘要输出
+|-
+| &nbsp; || [https://twitter.com/developerWorks @developerWorks] || Twitter || English
+|-
+| '''MSDN''' || &nbsp; || &nbsp; || Windows平台编程备查 介绍参见[https://zh.wikipedia.org/wiki/MSDN%E6%8A%80%E6%9C%AF%E8%B5%84%E6%BA%90%E5%BA%93 维基百科]
+|-
+| &nbsp; || [http://msdn.microsoft.com/en-us/library/] || Web || Engilsh Homepage
+|-
+| &nbsp; || [http://msdn.microsoft.com/zh-cn/library/] || Web || 简体中文主页
+|}
