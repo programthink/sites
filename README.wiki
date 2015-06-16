@@ -31,7 +31,9 @@
 |-
 | &nbsp; || [http://www.dw-world.de/dw/0,,293,00.html] || Web || 简体中文主页
 |-
-| &nbsp; || [http://mobile.dw-world.de/chinese] || WAP || 简体中文手机版
+| &nbsp; || [http://mobile.dw-world.de/chinese] || WAP || 简体中文手机版主页
+|-
+| &nbsp; || [http://feeds.feedburner.com/dw-world 订阅] || RSS || 简体中文 全文输出
 |-
 | '''路透社''' || &nbsp; || &nbsp; || 世界三大通讯社之一 介绍参见[https://zh.wikipedia.org/wiki/%E8%B7%AF%E9%80%8F%E7%A4%BE 维基百科]
 |-
@@ -40,6 +42,10 @@
 | &nbsp; || [http://cn.reuters.com/] || Web || 路透中文网主页
 |-
 | &nbsp; || [http://blogs.cn.reuters.com/feed 路透博客] || RSS || 简体中文 全文输出
+|-
+| &nbsp; || [https://twitter.com/reuters Reuters Top News] || Twitter || English Twitter
+|-
+| &nbsp; || [https://twitter.com/reutersworld Reuters World] || Twitter || English Twitter
 |-
 | '''法国国际广播电台''' || &nbsp; || &nbsp; || 英文缩写RFI 介绍参见[https://zh.wikipedia.org/wiki/%E6%B3%95%E5%9B%BD%E5%9B%BD%E9%99%85%E5%B9%BF%E6%92%AD%E7%94%B5%E5%8F%B0 维基百科]
 |-
@@ -100,6 +106,8 @@
 | &nbsp; || [http://cn.nytimes.com/] || Web || 简体中文主页
 |-
 | &nbsp; || [http://cn.nytimes.com/zh-hk/] || Web || 繁體中文主頁
+|-
+| &nbsp; || [http://cn.nytimes.com/rss/news.xml 订阅] || RSS || 简体中文 全文输出
 |-
 | &nbsp; || [https://twitter.com/nytimes @nytimes] || Twitter || English Twitter
 |-
@@ -195,7 +203,13 @@
 |-
 | &nbsp; || [http://www.scmp.com/] || Web || English Homepage
 |-
-| &nbsp; || [http://chinaoutlook.scmp.com/zh-hk/] || Web || 繁體中文主頁
+| &nbsp; || [http://www.nanzao.com/sc] || Web || 简体中文主页
+|-
+| &nbsp; || [http://www.nanzao.com/tc] || Web || 繁體中文主頁
+|-
+| &nbsp; || [http://www.nanzao.com/sc/rss/all/rss.xml 订阅] || RSS || 简体中文 全文输出
+|-
+| &nbsp; || [http://www.nanzao.com/tc/rss/all/rss.xml 訂閲] || RSS || 繁體中文 全文輸出
 |-
 | &nbsp; || [https://twitter.com/SCMP_News @SCMP_News] || Twitter || 繁體中文推特
 |-
@@ -203,7 +217,7 @@
 |-
 | &nbsp; || [http://www.inmediahk.net/] || Web || 繁體中文主頁
 |-
-| &nbsp; || [http://inmediahk.net/full/feed 所有文章訂閲] || RSS || 繁體中文 全文輸出
+| &nbsp; || [http://inmediahk.net/full/feed 訂閲] || RSS || 繁體中文 全文輸出
 |-
 | &nbsp; || [https://twitter.com/inmediahk @inmediahk] || Twitter || 繁體中文推特
 |-
@@ -288,6 +302,24 @@
 | '''東森電視''' || &nbsp; || &nbsp; || 東森電視臺的官方網站
 |-
 | &nbsp; || [http://www.ebc.net.tw/] || Web || 繁體中文主頁
+|}
+
+== 日本 ==
+
+{|
+! 名称 !! 链接 !! 类型 !! 说明
+|-
+| 共同通讯社 || &nbsp; || &nbsp; || 介绍参见[https://zh.wikipedia.org/wiki/%E5%85%B1%E5%90%8C%E9%80%9A%E8%AE%AF%E7%A4%BE 维基百科]
+|-
+| &nbsp; || [http://china.kyodonews.jp/] || Web || 简体中文主页
+|-
+| &nbsp; || [http://tchina.kyodonews.jp/] || Web || 繁體中文主頁
+|-
+| 朝日新闻 || &nbsp; || &nbsp; || 介绍参见[https://zh.wikipedia.org/wiki/%E6%9C%9D%E6%97%A5%E6%96%B0%E8%81%9E 维基百科]
+|-
+| &nbsp; || [http://asahichinese.com/locale/change/zh-cn] || Web || 简体中文主页
+|-
+| &nbsp; || [http://asahichinese.com/locale/change/zh-tw] || Web || 繁體中文主頁
 |}
 
 == 东南亚 ==
@@ -394,6 +426,16 @@
 |-
 | &nbsp; || [http://biweekly.hrichina.org/] || Web || 《中国人权双周刊》电子杂志
 |-
+| '''人权观察''' || &nbsp; || &nbsp; || 世界性的非政府组织 介绍参见[https://zh.wikipedia.org/wiki/%E4%BA%BA%E6%9D%83%E8%A7%82%E5%AF%9F 维基百科]
+|-
+| &nbsp; || [http://www.hrw.org/] || Web || English Home
+|-
+| &nbsp; || [http://www.hrw.org/zh-hans] || Web || 简体中文主页
+|-
+| &nbsp; || [https://twitter.com/HRW @HRW] || Twitter || English Twitter
+|-
+| &nbsp; || [https://twitter.com/hrw_chinese @HRW_chinese] || Twitter || 简体中文推特
+|-
 | '''参与''' || &nbsp; || &nbsp; || 内容包括维权和民运等
 |-
 | &nbsp; || [http://www.canyu.org/] || Web || 简体中文主页
@@ -405,6 +447,20 @@
 | '''六四天网''' || &nbsp; || &nbsp; || [https://zh.wikipedia.org/wiki/%E9%BB%84%E7%90%A6 黄琦]主办的国内第一家维权网站 介绍参见[https://zh.wikipedia.org/wiki/%E5%85%AD%E5%9B%9B%E5%A4%A9%E7%BD%91 维基百科]
 |-
 | &nbsp; || [http://64tianwang.com/] || Web || 简体中文主页
+|-
+| '''中国劳工通讯''' || &nbsp; || &nbsp; || 由“六四运动”的工人领袖[https://zh.wikipedia.org/wiki/%E9%9F%A9%E4%B8%9C%E6%96%B9 韩东方]创办
+|-
+| &nbsp; || [http://www.clb.org.hk/en/] || Web || English Home
+|-
+| &nbsp; || [http://www.clb.org.hk/schi/] || Web || 简体中文主页
+|-
+| &nbsp; || [http://www.clb.org.hk/chi/rss.xml] || RSS || 简体中文 全文输出
+|-
+| '''维权网''' || &nbsp; || &nbsp; || 如其名，内容主要是维权
+|-
+| &nbsp; || [http://www.weiquanwang.org/] || Web || 简体中文主页
+|-
+| &nbsp; || [http://wqw2010.blogspot.com/feeds/posts/default] || RSS || 简体中文 全文输出
 |}
 
 == “六四”相关 ==
@@ -472,9 +528,31 @@
 |-
 | &nbsp; || [http://www.letscorp.net/] || Web || 简体中文主页
 |-
-| &nbsp; || [http://feeds.feedburner.com/letscorp/aDmw 订阅] || RSS || 简体中文 全文输出
+| &nbsp; || [http://feeds.feedburner.com/letscorp/aDmw 订阅] || RSS || 简体中文 全文输出；
 |-
 | &nbsp; || [https://twitter.com/letscorp @letscorp] || Twitter || 简体中文推特
+|-
+| '''泡泡''' || &nbsp; || &nbsp; || 与 [https://zh.wikipedia.org/wiki/GreatFire GreatFire] 是一家子
+|-
+| &nbsp; || [https://pao-pao.net/] || Web || 简体中文主页
+|-
+| &nbsp; || [https://pao-pao.net/rss.xml 订阅] || RSS || 简体中文 全文输出；
+|-
+| &nbsp; || [https://twitter.com/paopaonet @paopaonet] || Twitter || 简体中文推特
+|-
+| '''奇闻录''' || &nbsp; || &nbsp; || 创办人未知 内容类似于“中国数字时代”
+|-
+| &nbsp; || [http://qiwen.lu/] || Web || 简体中文主页
+|-
+| &nbsp; || [http://qiwen.lu/feed 订阅] || RSS || 简体中文 全文输出
+|-
+| &nbsp; || [https://twitter.com/qiwenlu @qiwenlu] || Twitter || 简体中文推特
+|-
+| '''博谈网''' || &nbsp; || &nbsp; || 创办人未知 内容类似于“中国数字时代”
+|-
+| &nbsp; || [http://www.botanwang.com/] || Web || 简体中文主页
+|-
+| &nbsp; || [http://www.botanwang.com/rss.xml 订阅] || RSS || 简体中文 全文输出
 |}
 
 
@@ -621,7 +699,7 @@
 {|
 ! 名称 !! 链接 !! 类型 !! 说明
 |-
-| 商业周刊 || &nbsp; || &nbsp; || 台湾发行量最大的财经类刊物 总部在台北 （跟美国《商业周刊》没关系）
+| 商业周刊 || &nbsp; || &nbsp; || 台湾发行量最大的财经类刊物 总部在台北 （跟美国的《商业周刊》没关系）
 |-
 | &nbsp; || [http://www.businessweekly.com.tw/] || Web || 繁體中文主頁
 |-
@@ -630,6 +708,22 @@
 | &nbsp; || [http://feeds.feedburner.com/bw-news 每日財經網摘] || RSS || 繁體中文 摘要輸出
 |-
 | &nbsp; || [http://feeds.feedburner.com/bw-ranking 本週熱門排行] || RSS || 繁體中文 摘要輸出
+|}
+
+== 日本 ==
+
+{|
+! 名称 !! 链接 !! 类型 !! 说明
+|-
+| 日本经济新闻 || &nbsp; || &nbsp; || 号称日本发行量最大打财经报纸 介绍参见[https://zh.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%B6%93%E6%BF%9F%E6%96%B0%E8%81%9E 维基百科]
+|-
+| &nbsp; || [http://cn.nikkei.com/] || Web || 简体中文主页
+|-
+| &nbsp; || [http://zh.cn.nikkei.com/] || Web || 繁體中文主頁
+|-
+| &nbsp; || [http://cn.nikkei.com/rss.html 订阅] || RSS || 简体中文 摘要输出
+|-
+| &nbsp; || [http://zh.cn.nikkei.com/rss.html 訂閲] || RSS || 繁體中文 摘要輸出
 |}
 
 
