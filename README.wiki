@@ -540,13 +540,21 @@
 |-
 | &nbsp; || [https://twitter.com/paopaonet @paopaonet] || Twitter || 简体中文推特
 |-
-| '''奇闻录''' || &nbsp; || &nbsp; || 创办人未知 内容类似于“中国数字时代”
+| '''奇闻录''' || &nbsp; || &nbsp; || 主要汇总新浪微博和 Twitter 的热门言论
 |-
 | &nbsp; || [http://qiwen.lu/] || Web || 简体中文主页
 |-
 | &nbsp; || [http://qiwen.lu/feed 订阅] || RSS || 简体中文 全文输出
 |-
 | &nbsp; || [https://twitter.com/qiwenlu @qiwenlu] || Twitter || 简体中文推特
+|-
+| '''自由微博''' || &nbsp; || &nbsp; || 与 [https://zh.wikipedia.org/wiki/GreatFire GreatFire] 是一家子 介绍参见[https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3 维基百科]
+|-
+| &nbsp; || [https://freeweibo.com/] || Web || 简体中文主页
+|-
+| &nbsp; || [https://freeweibo.com/en/] || Web || English Home
+|-
+| &nbsp; || [https://freeweibo.com/?rss 订阅] || RSS || 简体中文 全文输出
 |-
 | '''博谈网''' || &nbsp; || &nbsp; || 创办人未知 内容类似于“中国数字时代”
 |-
@@ -937,6 +945,10 @@
 | '''GitHub''' || &nbsp; || &nbsp; || 最好的开源项目集散地(没有“之一”) 介绍参见[https://zh.wikipedia.org/wiki/GitHub 维基百科]
 |-
 | &nbsp; || [https://github.com/] || Web || Engilsh Homepage
+|-
+| '''Code Project''' || &nbsp; || &nbsp; || 老牌的编程社区 介绍参见[https://en.wikipedia.org/wiki/Code_Project 维基百科]
+|-
+| &nbsp; || [http://codeproject.com/] || Web || Engilsh Homepage
 |-
 | '''CodeCademy''' || &nbsp; || &nbsp; || 这个适合新手入门 介绍参见[https://zh.wikipedia.org/wiki/Codecademy 维基百科]
 |-
