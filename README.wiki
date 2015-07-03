@@ -399,6 +399,10 @@
 | &nbsp; || [http://www.observechina.net/] || Web || 简体中文主页
 |-
 | &nbsp; || [http://www.observechina.net/info_eng/Index.asp] || Web || English Home
+|-
+| '''黄花岗杂志''' || &nbsp; || &nbsp; || [https://zh.wikipedia.org/wiki/%E8%BE%9B%E7%81%8F%E5%B9%B4 辛灝年]主办，侧重于天朝近代史，于2001年10月10日创刊
+|-
+| &nbsp; || [http://www.huanghuagang.org/] || Web || 繁體中文主頁
 |}
 
 == 维权 ==
